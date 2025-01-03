@@ -1,0 +1,9 @@
+{
+    "exportButton": ".sc-gswNZR > :nth-child(4)",
+    "macBookText": "MacBook Pro",
+    "h2Icon": "svg[data-icon='h2']",
+    "fontFamilyDropdown": "button[role='combobox'][aria-controls=':r27:']",
+    "fontStyleDropdown": "button[role='combobox'][aria-controls=':r4u:']",
+    "arialBlackOption": "div[role='option']:contains('Arial Black')",
+    "boldOption": "div#\\:r54\\:[role='option']"
+  }
